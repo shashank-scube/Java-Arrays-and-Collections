@@ -52,4 +52,4 @@ This program demonstrates basic array operations, including initialization, popu
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/shashank-scube/Java-Arrays-and-Collections.git]
+   git clone https://github.com/shashank-scube/Java-Arrays-and-Collections.git
